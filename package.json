@@ -1,0 +1,18 @@
+{
+  "name": "overwatchoverlay",
+  "version": "1.0.0",
+  "description": "Overwatch Overlay for easy use with obs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/PlateOfRoses/OverwatchOverlay"
+  },
+  "author": "PlateOfSuki",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^40.2.1"
+  }
+}
